@@ -1,0 +1,1 @@
+/Users/gio/Developer/mokacoding/examples/symlinks/foo.md
